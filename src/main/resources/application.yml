@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+jwt:
+    header: Authorization
+    secret: mySecret
+    expiration:  604800
